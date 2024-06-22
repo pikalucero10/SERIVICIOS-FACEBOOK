@@ -1,0 +1,25 @@
+{
+    "platform": "facebook",
+    "services": {
+      "seguidores": [
+        {
+          "id": 1,
+          "service_name": "ID PAGINA FB - Facebook - Seguidores = 1000 x 0.37",
+          "price_per_unit": 0.00038
+        }
+      ],
+      "likes": [
+        {
+          "id": 2,
+          "service_name": "ID 3170 - Facebook - Me gusta - Alta calidad - Mundiales, Brasil, Latinos y USA - Max 20K 🔥",
+          "price_per_unit": 0.0001
+        },
+        {
+          "id": 3,
+          "service_name": "ID 80 - Los Me gusta de Facebook son los más baratos del mercado (PAGINA FB)",
+          "price_per_unit": 0.00003
+        }
+      ]
+    }
+  }
+  
